@@ -110,9 +110,17 @@ For front-end part of the system HTML, CSS, JavaScript, JQuery, Bootstrap and Re
 For back-end part of the system NodeJS will be used.
 
 # 4- Limitations
+Each user can choose only one role that are customer , flower seller and courier.
+
+Flower seller cannot assign the order without courier’s permission.
+
+Customer cannot finish the order without paying.
+
+Flower seller must have at least one phone number.
 
 # 5- E/R Diagram
+https://i.hizliresim.com/172MvB.png
 
 # 6- Conclusion
-
+In conclusion ,this project is an online flower shopping system which is inspired by Çiçek Sepeti. In this website, people can easily buy , sell or transport flowers. We are just trying to make this process online and easy for everyone. Finally , this proposal tries to explain our goal and methods. This proposal is also important for further developments
 
