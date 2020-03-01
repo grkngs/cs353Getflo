@@ -2,7 +2,12 @@
 # Project Proposal for Online Flower Shopping System “Getflo”
 
 **Group 33**
+
 Gürkan Gür - 21602813
+
+Ahmet Berk Eren - 21602055
+
+Mehmet Akif Kılıç - 21502487
 
 # Table Of Contents
 1. Introduction	
@@ -17,7 +22,7 @@ Gürkan Gür - 21602813
 
 # 1- Introduction
 This is the project proposal for the database system of online flower shopping application. The proposal contains the description, requirements, limitations and e/r diagram of the system. It explains how/why we need a database system for this web based application.
-The proposal starts with project description section. This section explains the properties and general purpose of the system, as well as the necessity of a database. After that, requirements section contains functional and nonfunctional requirements of the system. Functional requirements describe the service that the system will offer. Nonfunctional requirements explain the criterias to judge the operations of the system. Nonfunctional requirements are stated as … . 
+The proposal starts with project description section. This section explains the properties and general purpose of the system, as well as the necessity of a database. After that, requirements section contains functional and nonfunctional requirements of the system. Functional requirements describe the service that the system will offer. Nonfunctional requirements explain the criterias to judge the operations of the system. Nonfunctional requirements are stated as security, reliability, user-friendliness, performance, adaptability, configurability. 
 Next, limitations section describes the boundaries of the system, that is, the things that system is not able to accomplish.
 Further, there is conceptual database diagram for the system. E/R diagram shows the entities and relations that is needed to be established in order to create the system. 
 
@@ -44,12 +49,14 @@ Customer can see the details of the order.
 
 Customer can see the status of the order.
 
-Flower-sellers can update their products.
+Customers can rate the flower sellers and couriers.
 
 ### 3.1.2. Flower Seller
 Flower-sellers can see details of orders which are sent by customer to them.
 
 Flower-sellers can assign orders to couriers.
+
+Flower-sellers can update their products.
 
 ### 3.1.3. Courier
 Courier can accept or reject the orders which are assigned by flower-sellers.
