@@ -122,5 +122,5 @@ Flower seller must have at least one phone number.
 https://i.hizliresim.com/172MvB.png
 
 # 6- Conclusion
-In conclusion ,this project is an online flower shopping system which is inspired by Çiçek Sepeti. In this website, people can easily buy , sell or transport flowers. We are just trying to make this process online and easy for everyone. Finally , this proposal tries to explain our goal and methods. This proposal is also important for further developments
+In conclusion, this project is an online flower shopping system which is inspired by Çiçek Sepeti. In this website, people can easily buy, sell or transport flowers. We are trying to make this process online and easy for everyone, by making an efficient and secure database system. This proposal tries to explain our goal and methods with showing the description, requirements, limitations and diagram of the system. 
 
