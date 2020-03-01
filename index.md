@@ -16,8 +16,6 @@ Mehmet Akif Kılıç - 21502487
 4. Limitations	
 5. E/R Diagram	
 6. Conclusion	
-7. Website	
-
 
 
 # 1- Introduction
